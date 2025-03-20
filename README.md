@@ -35,7 +35,9 @@ To know more about the API used [click here](https://directory.apisetu.gov.in/ap
   
 The data received through the API was in XML format.
 So for analysis purposes, the XML file was converted to CSV file in Python.  
-[Click here](https://github.com/mg270524/AIML-Project/raw/refs/heads/main/outfile(1).xlsx) to download the CSV file.
+The CSV file was further used for preliminary exploration in Google Sheets. Some minor changes were made such as formatting column names, removing underscores etc. The file was finally
+exported into XLSX format.
+[Click here](https://github.com/mg270524/AIML-Project/raw/refs/heads/main/outfile(1).xlsx) to download the XLSX file.
 
 
 ## Dataset Cleaning
