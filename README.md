@@ -78,6 +78,9 @@ exported into XLSX format.
 
     - **Impact**: Ozone is a major component of smog and can cause respiratory problems, aggravate asthma, reduce lung function, and lead to chronic lung diseases. It also harms crops and ecosystems.
 
+   <img alt="Health Impact" src="assets/health indication.png"> </img>
+   _[Source](https://cpcb.nic.in/index.php)_
+
 
 
 
