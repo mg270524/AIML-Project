@@ -138,11 +138,22 @@ So, our cleaned dataset looks like this:
 
 ## EDA  
 
-1. Graphs
-2. Boxplot
-3. Pointplot
-4. Heatmap
-5. RegPlot
+### 1. Count Plot
+![](https://github.com/mg270524/AIML-Project/blob/main/assets/countplot.png)
+
+### 2. Scatter Plot
+![](https://github.com/mg270524/AIML-Project/blob/main/assets/scatterplt.png)
+
+### 3. Box Plot
+![](https://github.com/mg270524/AIML-Project/blob/main/assets/boxplot.png)
+
+### 4. Pair Plot
+![](https://github.com/mg270524/AIML-Project/blob/main/assets/pairplot.png)
+
+### 5. Heatmap
+![](https://github.com/mg270524/AIML-Project/blob/main/assets/heatmap1.png)
+   
+   
 
 
 
